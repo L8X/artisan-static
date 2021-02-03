@@ -4,7 +4,7 @@ return [
     'production' => true,
     'baseUrl' => 'https://www.unregisteredhyper.cam',
     'site' => [
-        'title' => 'ExProHacks Reborn Blog',
+        'title' => 'ExProHacks Blog',
         'description' => 'Blog with updates and news for ExPro members only.',
         'image' => 'default-share.png',
     ],
