@@ -2,16 +2,16 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://www.unregisteredhyper.cam',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'ExProHacks Reborn Blog',
+        'description' => 'Blog with updates and news for ExPro members only.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Aigeiros',
+        'twitter' => 'Aigeiros',
+        'github' => 'L8X',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
