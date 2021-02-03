@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'production' => false,
+    'production' => true,
     'baseUrl' => 'https://www.unregisteredhyper.cam',
     'site' => [
         'title' => 'ExProHacks Reborn Blog',
