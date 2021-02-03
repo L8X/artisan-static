@@ -1,5 +1,5 @@
 ---
-title: '01 - Dummy Post'
+title: Test Post
 date: 2019-04-30
 tags:
   - css
@@ -7,6 +7,7 @@ tags:
   - php
   - laravel
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
+comments: true
 ---
 ## Heading 2
 
